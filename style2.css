@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+}
+
+h2{
+    
+    text-align: center;
+    font-family: malgun 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+}
+
+a {
+    text-decoration: none;
+    border-color: red;
+    color: red;
+}

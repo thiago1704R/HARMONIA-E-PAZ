@@ -1,0 +1,90 @@
+*{
+    margin: 0 auto;
+    padding: 3px;
+    box-sizing: border-box;
+    border-color: red;
+    font-family: malgun 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
+}
+
+#logo{
+  text-align: left;
+  color: rgb(230, 27, 27);
+  
+  
+}
+body{
+  background-color: aliceblue;
+  font-family:'Times New Roman', Times, serif';
+}
+
+header{
+  background-color: aqua;
+  font-size: 24px;
+  font-family:'Times New Roman', Times, serif';
+}
+
+nav{
+  padding-top: 23px;
+  border-top: 12px;
+  border-bottom: 14px;
+  text-align: right;
+}
+
+a :hover {
+  background-color: red;
+}
+
+ul {
+    max-width: 800px;
+    list-style: none;
+    padding: 0;
+
+}
+
+ul li {
+    list-style: none;
+    display: inline;
+}
+
+ul li a {
+    padding: 20px;
+    text-decoration: none;
+
+}
+
+
+
+h3{
+  text-align: left;
+}
+
+#cargo {
+  text-align: right;
+}
+
+.texto{
+  padding-top: 2px;
+  padding-left: 10px;
+  padding-right: 1;
+  padding-bottom: 3;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+span {
+  color: blue;
+}
+
+
+footer {
+  text-align: center;
+  padding: 0%;
+}
+
+ol {
+  text-align: left;
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
